@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-04-29T19:36:00+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2022/04/11/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2022-04-11T14:33:23+08:00</published><updated>2022-04-11T14:33:23+08:00</updated><id>http://localhost:4000/jekyll/update/2022/04/11/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2022/04/11/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Where &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&apos;Tom&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &apos;Hi, Tom&apos; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">Article 1</title><link href="http://localhost:4000/2022/04/11/article-1.html" rel="alternate" type="text/html" title="Article 1" /><published>2022-04-11T14:33:23+08:00</published><updated>2022-04-11T14:33:23+08:00</updated><id>http://localhost:4000/2022/04/11/article-1</id><content type="html" xml:base="http://localhost:4000/2022/04/11/article-1.html">&lt;h2 id=&quot;welcome-to-maple-publish&quot;&gt;Welcome to Maple Publish&lt;/h2&gt;
+
+&lt;h2 id=&quot;a-quick-guide-to-markdown&quot;&gt;A Quick guide to Markdown&lt;/h2&gt;
+
+&lt;p&gt;Nearly all Markdown applications support the basic syntax outlined in John Gruber’s original design document. There are minor variations and discrepancies between Markdown processors.&lt;/p&gt;
+
+&lt;h2 id=&quot;headings&quot;&gt;Headings&lt;/h2&gt;
+
+&lt;p&gt;Add number signs (#) in front of a word or phrase to create a heading. The number of number signs corresponds to the heading level. For example, to create a heading level four (&amp;lt;h4&amp;gt;), use four number signs (e.g., #### My Level Four Header).&lt;/p&gt;
+
+&lt;p&gt;Alternatively, on the line below the text, add any number of == characters for heading level 1 or – characters for heading level 2.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Markdown&lt;/th&gt;
+      &lt;th&gt;Rendered output&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;# Heading Level 1&lt;/td&gt;
+      &lt;td&gt;&amp;lt;h1&amp;gt;Heading Level 1&amp;lt;/h1&amp;gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;## Heading Level 2&lt;/td&gt;
+      &lt;td&gt;&amp;lt;h2&amp;gt;Heading Level 2&amp;lt;/h2&amp;gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;### Heading Level 3&lt;/td&gt;
+      &lt;td&gt;&amp;lt;h3&amp;gt;Heading Level 3&amp;lt;/h3&amp;gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Heading Level 1 &lt;br /&gt; ===========&lt;/td&gt;
+      &lt;td&gt;&amp;lt;h1&amp;gt;Heading Level 3&amp;lt;/h1&amp;gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Heading Level 2 &lt;br /&gt; ——————&lt;/td&gt;
+      &lt;td&gt;&amp;lt;h2&amp;gt;Heading Level 3&amp;lt;/h2&amp;gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;paragraphs-and-line-breaks&quot;&gt;Paragraphs and Line breaks&lt;/h2&gt;
+
+&lt;p&gt;To create paragraphs, use a blank line to separate one or more lines of text.&lt;/p&gt;
+
+&lt;p&gt;To create a line break (&amp;lt;br&amp;gt;), end a line with two or more spaces, and then type return.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Markdown&lt;/th&gt;
+      &lt;th&gt;Rendered output&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Markdown is very simple. &lt;br /&gt; You can even incorporate html style in it.&lt;/td&gt;
+      &lt;td&gt;Markdown is very simple. &lt;br /&gt; You can even incorporate html style in it.&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;emphasis&quot;&gt;Emphasis&lt;/h2&gt;
+
+&lt;p&gt;Emphasis could be added by making text bold or italic.&lt;/p&gt;
+
+&lt;h3 id=&quot;bold&quot;&gt;&lt;strong&gt;Bold&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;To bold text, add two asterisks or underscores before and after a word or phrase. To bold the middle of a word for emphasis, add two asterisks without spaces around the letters.&lt;/p&gt;
+
+&lt;h3 id=&quot;italic&quot;&gt;&lt;em&gt;Italic&lt;/em&gt;&lt;/h3&gt;
+
+&lt;p&gt;To italicize text, add one asterisk or underscore before and after a word or phrase. To italicize the middle of a word for emphasis, add one asterisk without spaces around the letters.&lt;/p&gt;
+
+&lt;h3 id=&quot;bold-and-italic&quot;&gt;&lt;strong&gt;&lt;em&gt;Bold and Italic&lt;/em&gt;&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;To emphasize text with bold and italics at the same time, add three asterisks or underscores before and after a word or phrase. To bold and italicize the middle of a word for emphasis, add three asterisks without spaces around the letters.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Markdown&lt;/th&gt;
+      &lt;th&gt;Rendered output&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;This is **bold**&lt;/td&gt;
+      &lt;td&gt;This is &lt;strong&gt;bold&lt;/strong&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;This is __bold__&lt;/td&gt;
+      &lt;td&gt;This is &lt;strong&gt;bold&lt;/strong&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;This is *italic*&lt;/td&gt;
+      &lt;td&gt;This is &lt;em&gt;italic&lt;/em&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;This is _italic_&lt;/td&gt;
+      &lt;td&gt;This is &lt;em&gt;italic&lt;/em&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;This is ***bold and italic***&lt;/td&gt;
+      &lt;td&gt;This is &lt;strong&gt;&lt;em&gt;bold and italic&lt;/em&gt;&lt;/strong&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;This is ___bold and italic___&lt;/td&gt;
+      &lt;td&gt;This is &lt;strong&gt;&lt;em&gt;bold and italic&lt;/em&gt;&lt;/strong&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;This is **_bold and italic_**&lt;/td&gt;
+      &lt;td&gt;This is &lt;strong&gt;&lt;em&gt;bold and italic&lt;/em&gt;&lt;/strong&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;This is _**bold and italic**_&lt;/td&gt;
+      &lt;td&gt;This is &lt;em&gt;&lt;strong&gt;bold and italic&lt;/strong&gt;&lt;/em&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;blockquotes&quot;&gt;Blockquotes&lt;/h2&gt;
+
+&lt;p&gt;To create a blockquote, add a &amp;gt; in front of a paragraph.&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;gt; Vision is not what your eyes see, but an image your brain comprehends
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;The rendered output:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Vision is not what your eyes see, but an image your brain comprehends&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;blockquotes-with-multiple-paragraphs&quot;&gt;Blockquotes with multiple paragraphs&lt;/h2&gt;
+
+&lt;p&gt;Blockquotes can contain multiple paragraphs. Add a &amp;gt; on the blank lines between the paragraphs&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;gt; Vision is not what your eyes see, but an image your brain comprehends
+&amp;gt;
+&amp;gt; Life comes at a cost. Wouldn’t it be arrogant to die before you’ve repaid that debt?
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;The rendered output:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Vision is not what your eyes see, but an image your brain comprehends&lt;/p&gt;
+
+  &lt;p&gt;Life comes at a cost. Wouldn’t it be arrogant to die before you’ve repaid that debt?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;nested-blockquotes&quot;&gt;Nested Blockquotes&lt;/h2&gt;
+
+&lt;p&gt;Blockquotes can be nested. Add a » in front of the paragraph you want to nest.&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;gt; Vision is not what your eyes see, but an image your brain comprehends
+&amp;gt;
+&amp;gt;&amp;gt; Life comes at a cost. Wouldn’t it be arrogant to die before you’ve repaid that debt?
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;The rendered output:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Vision is not what your eyes see, but an image your brain comprehends&lt;/p&gt;
+
+  &lt;blockquote&gt;
+    &lt;p&gt;Life comes at a cost. Wouldn’t it be arrogant to die before you’ve repaid that debt?&lt;/p&gt;
+  &lt;/blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;blockquotes-with-other-elements&quot;&gt;Blockquotes with other elements&lt;/h2&gt;
+
+&lt;p&gt;Blockquotes can contain other Markdown formatted elements. Not all elements can be used — you’ll need to experiment to see which ones work.&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;gt; ## Best quotes you need
+&amp;gt; - Vision is not what your eyes see, but an image your brain comprehends
+&amp;gt; - Life comes at a cost. Wouldn’t it be arrogant to die before you’ve repaid that debt?
+&amp;gt;
+&amp;gt; **Life** is not a ***game of luck***. *If you wanna win, work hard.*
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;The rendered output:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;h2 id=&quot;best-quotes-you-need&quot;&gt;Best quotes you need&lt;/h2&gt;
+  &lt;ul&gt;
+    &lt;li&gt;Vision is not what your eyes see, but an image your brain comprehends&lt;/li&gt;
+    &lt;li&gt;Life comes at a cost. Wouldn’t it be arrogant to die before you’ve repaid that debt?&lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;p&gt;&lt;strong&gt;Life&lt;/strong&gt; is not a &lt;strong&gt;&lt;em&gt;game of luck&lt;/em&gt;&lt;/strong&gt;. &lt;em&gt;If you wanna win, work hard.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;lists&quot;&gt;Lists&lt;/h2&gt;
+
+&lt;p&gt;You can create ordered and unordered lists.&lt;/p&gt;
+
+&lt;h3 id=&quot;ordered-list&quot;&gt;Ordered List&lt;/h3&gt;
+
+&lt;p&gt;To create an ordered list, add line items with numbers followed by periods. The numbers don’t have to be in numerical order, but the list should start with the number one.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Markdown&lt;/th&gt;
+      &lt;th&gt;Rendered output&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1. First &lt;br /&gt; 2. Second &lt;br /&gt; 3. Third &lt;br /&gt; 4. Fourth&lt;/td&gt;
+      &lt;td&gt;1. First &lt;br /&gt; 2. Second &lt;br /&gt; 2. Third &lt;br /&gt; 2. Fourth&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2. First &lt;br /&gt; 2. Second &lt;br /&gt; 3. Third &lt;br /&gt; 4. Fourth&lt;/td&gt;
+      &lt;td&gt;1. First &lt;br /&gt; 2. Second &lt;br /&gt; 3. Third &lt;br /&gt; 4. Fourth&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;3. First &lt;br /&gt; 6. Second &lt;br /&gt; 5. Third &lt;br /&gt; 8. Fourth&lt;/td&gt;
+      &lt;td&gt;1. First &lt;br /&gt; 2. Second &lt;br /&gt; 3. Third &lt;br /&gt; 4. Fourth&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1. First &lt;br /&gt; 2. Second &lt;br /&gt; 3. Third &lt;br /&gt;   1. Indented item &lt;br /&gt;   2. Indented item &lt;br /&gt; 4. Fourth&lt;/td&gt;
+      &lt;td&gt;1. First &lt;br /&gt; 2. Second &lt;br /&gt; 3. Third &lt;br /&gt;   1. Indented item &lt;br /&gt;   2. Indented item &lt;br /&gt; 4. Fourth&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;unordered-list&quot;&gt;Unordered List&lt;/h3&gt;
+
+&lt;p&gt;To create an unordered list, add dashes (-), asterisks (*), or plus signs (+) in front of line items. Indent one or more items to create a nested list.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Markdown&lt;/th&gt;
+      &lt;th&gt;Rendered output&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;- First &lt;br /&gt; - Second &lt;br /&gt; - Third &lt;br /&gt; - Fourth&lt;/td&gt;
+      &lt;td&gt;&amp;lt;ul&amp;gt;&amp;lt;li&amp;gt;First item&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;Second item&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;Third item&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;Fourth item&amp;lt;/li&amp;gt;&amp;lt;/ul&amp;gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;* First &lt;br /&gt; * Second &lt;br /&gt; * Third &lt;br /&gt; * Fourth&lt;/td&gt;
+      &lt;td&gt;&amp;lt;ul&amp;gt;&amp;lt;li&amp;gt;First item&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;Second item&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;Third item&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;Fourth item&amp;lt;/li&amp;gt;&amp;lt;/ul&amp;gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;+ First &lt;br /&gt; + Second &lt;br /&gt; + Third &lt;br /&gt; + Fourth&lt;/td&gt;
+      &lt;td&gt;&amp;lt;ul&amp;gt;&amp;lt;li&amp;gt;First item&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;Second item&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;Third item&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;Fourth item&amp;lt;/li&amp;gt;&amp;lt;/ul&amp;gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;- First &lt;br /&gt; - Second &lt;br /&gt; - Third &lt;br /&gt;   - Indented item &lt;br /&gt;   - Indented item &lt;br /&gt; - Fourth&lt;/td&gt;
+      &lt;td&gt;&amp;lt;ul&amp;gt;&amp;lt;li&amp;gt;First item&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;Second item&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;Third item&amp;lt;ul&amp;gt;&amp;lt;li&amp;gt;Indented item&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;Indented item&amp;lt;/li&amp;gt;&amp;lt;/ul&amp;gt;&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;Fourth item&amp;lt;/li&amp;gt;&amp;lt;/ul&amp;gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;The rendered output:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;First item&lt;/li&gt;
+  &lt;li&gt;Second item&lt;/li&gt;
+  &lt;li&gt;Third item&lt;/li&gt;
+  &lt;li&gt;Fourth item&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;unordered-list-item-with-number&quot;&gt;Unordered List item with number&lt;/h3&gt;
+&lt;p&gt;If you need to start an unordered list item with a number followed by a period, you can use a backslash (\) to escape the period.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Markdown&lt;/th&gt;
+      &lt;th&gt;Rendered output&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;- 2000. The year of dragon. &lt;br /&gt; - 2012. The year of dragon as well. &lt;br /&gt;&lt;/td&gt;
+      &lt;td&gt;&amp;lt;ul&amp;gt;&amp;lt;li&amp;gt;2000. The year of dragon.&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;2012. The year of dragon as well.&amp;lt;/li&amp;gt;&amp;lt;/ul&amp;gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;adding-elements-in-list&quot;&gt;Adding elements in list&lt;/h3&gt;
+
+&lt;p&gt;To add another element in a list while preserving the continuity of the list, indent the element four spaces or one tab.&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;### Example list with multiple types of elements added
+* This is the first list item.
+* This is how you add paragraph.
+
+    I need to add another paragraph below the second list item.
+
+* This is how you add blockquote.
+  
+    &amp;gt; A blockquote would look great below the second list item.
+
+* This is how you add code blocks. Code blocks are normally indented four spaces or one tab. When they’re in a list, indent them eight spaces or two tabs.
+
+        &amp;lt;html&amp;gt;
+          &amp;lt;head&amp;gt;
+            &amp;lt;title&amp;gt;Test&amp;lt;/title&amp;gt;
+          &amp;lt;/head&amp;gt;
+
+* This is how you add images
+
+    ![logo](/src/images/images.jfif)
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;The rendered output:&lt;/p&gt;
+
+&lt;h3 id=&quot;example-list-with-multiple-types-of-elements-added&quot;&gt;Example list with multiple types of elements added&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;This is the first list item.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;This is how you add paragraph.&lt;/p&gt;
+
+    &lt;p&gt;I need to add another paragraph below the second list item.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;This is how you add blockquote.&lt;/p&gt;
+
+    &lt;blockquote&gt;
+      &lt;p&gt;A blockquote would look great below the second list item.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;This is how you add code blocks. Code blocks are normally indented four spaces or one tab. When they’re in a list, indent them eight spaces or two tabs.&lt;/p&gt;
+
+    &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;  &amp;lt;html&amp;gt;
+    &amp;lt;head&amp;gt;
+      &amp;lt;title&amp;gt;Test&amp;lt;/title&amp;gt;
+    &amp;lt;/head&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;This is how you add images&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;../images/images.jfif&quot; alt=&quot;logo&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;code&quot;&gt;Code&lt;/h2&gt;
+
+&lt;p&gt;To denote a word or phrase as code, enclose it in backticks (`).&lt;/p&gt;
+
+&lt;h2 id=&quot;escaping-backtick&quot;&gt;Escaping Backtick&lt;/h2&gt;
+
+&lt;p&gt;If the word or phrase you want to denote as code includes one or more backticks, you can escape it by enclosing the word or phrase in double backticks (``).&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Markdown&lt;/th&gt;
+      &lt;th&gt;Rendered output&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Code example: At the command prompt, type `nano`.&lt;/td&gt;
+      &lt;td&gt;Code example: At the command prompt, type &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;nano&lt;/code&gt;.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Escaping backtick example: ``Use `code` in your Markdown file.``.&lt;/td&gt;
+      &lt;td&gt;Escaping backtick example: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Use `code` in your Markdown file.&lt;/code&gt;.&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;code-blocks&quot;&gt;Code Blocks&lt;/h2&gt;
+
+&lt;p&gt;To create code blocks, indent every line of the block by at least four spaces or one tab.&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    &amp;lt;html&amp;gt;
+      &amp;lt;head&amp;gt;
+      &amp;lt;/head&amp;gt;
+    &amp;lt;/html&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;The rendered output:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;html&amp;gt;
+  &amp;lt;head&amp;gt;
+  &amp;lt;/head&amp;gt;
+&amp;lt;/html&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;horizontal-rules&quot;&gt;Horizontal Rules&lt;/h2&gt;
+
+&lt;p&gt;To create a horizontal rule, use three or more asterisks (***), dashes (—), or underscores (___) on a line by themselves.&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;***
+
+---
+
+_________________
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;The rendered output:&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;hr /&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+&lt;p&gt;To create a link, enclose the link text in brackets (e.g., [Duck Duck Go]) and then follow it immediately with the URL in parentheses (e.g., (&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;https://google.com&lt;/code&gt;)).&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;My favorite search engine is [Google](https://google.com &quot;The best search engine&quot;).
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;The rendered output:&lt;/p&gt;
+
+&lt;p&gt;My favorite search engine is &lt;a href=&quot;https://google.com&quot; title=&quot;The best search engine&quot;&gt;Google&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;urls-and-emails&quot;&gt;URLs and emails&lt;/h2&gt;
+
+&lt;p&gt;To quickly turn a URL or email address into a link, enclose it in angle brackets.&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;https://www.markdownguide.org&amp;gt;
+
+&amp;lt;fake@example.com&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;The rendered output:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.markdownguide.org&quot;&gt;https://www.markdownguide.org&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;mailto:fake@example.com&quot;&gt;fake@example.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;images&quot;&gt;Images&lt;/h2&gt;
+
+&lt;p&gt;To add an image, add an exclamation mark (!), followed by alt text in brackets, and the path or URL to the image asset in parentheses. You can optionally add a title after the URL in the parentheses.&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;![logo](../images/images.jfif)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;The rendered output:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../images/images.jfif&quot; alt=&quot;logo&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;linking-images&quot;&gt;Linking images&lt;/h2&gt;
+
+&lt;p&gt;To add a link to an image, enclose the Markdown for the image in brackets, and then add the link in parentheses.&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;[![logo](../images/images.jfif)](https://www.macmillandictionary.com/dictionary/british/maple)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;The rendered output:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.macmillandictionary.com/dictionary/british/maple&quot;&gt;&lt;img src=&quot;../images/images.jfif&quot; alt=&quot;logo&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;escaping-characters&quot;&gt;Escaping characters&lt;/h2&gt;
+
+&lt;p&gt;Escaping Characters
+To display a literal character that would otherwise be used to format text in a Markdown document, add a backslash (\) in front of the character.&lt;/p&gt;
+
+&lt;p&gt;The characters you can escape includes \, `, *, _, {}, [], &amp;lt;&amp;gt;, (), #, +, -, ., !, |.&lt;/p&gt;
+
+&lt;h2 id=&quot;html&quot;&gt;HTML&lt;/h2&gt;
+
+&lt;p&gt;Many Markdown applications allow you to use HTML tags in Markdown-formatted text. This is helpful if you prefer certain HTML tags to Markdown syntax. For example, some people find it easier to use HTML tags for images. Using HTML is also helpful when you need to change the attributes of an element, like specifying the color of text or changing the width of an image.&lt;/p&gt;
+
+&lt;p&gt;To use HTML, place the tags in the text of your Markdown-formatted file.&lt;/p&gt;
+
+&lt;h2 id=&quot;video&quot;&gt;Video&lt;/h2&gt;
+
+&lt;video width=&quot;320&quot; height=&quot;240&quot; controls=&quot;&quot;&gt;
+  &lt;source src=&quot;../video/vid01.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+Your browser does not support the video tag.
+&lt;/video&gt;
+
+&lt;h2 id=&quot;further-information-regarding-markdown-syntax&quot;&gt;Further information regarding markdown syntax&lt;/h2&gt;
+
+&lt;p&gt;For more information about markdown syntax, you could visit &lt;a href=&quot;https://www.markdownguide.org/&quot; title=&quot;Markdown guide&quot;&gt;Markdown Guide&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">Welcome to Maple Publish</summary></entry><entry><title type="html">Test For various plugins</title><link href="http://localhost:4000/2022/04/11/plugins-test.html" rel="alternate" type="text/html" title="Test For various plugins" /><published>2022-04-11T14:33:23+08:00</published><updated>2022-04-11T14:33:23+08:00</updated><id>http://localhost:4000/2022/04/11/plugins-test</id><content type="html" xml:base="http://localhost:4000/2022/04/11/plugins-test.html">&lt;h2 id=&quot;lets-watch-some-yoututbe-video&quot;&gt;Let’s watch some Yoututbe video&lt;/h2&gt;
+
+&lt;style&gt;.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }&lt;/style&gt;
+&lt;div class=&quot;embed-container&quot;&gt;    &lt;iframe title=&quot;YouTube video player&quot; width=&quot;640&quot; height=&quot;390&quot; src=&quot;//www.youtube.com/embed/fqFjuX4VZmU&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;embedding-pdf-file&quot;&gt;Embedding PDF file&lt;/h2&gt;
+
+&lt;style&gt; .pdf-embed-wrap-ba558e7d-ee96-4fb8-82c4-34107372b348 { display:flex; flex-direction: column; width: 100%; height: 650px; } .pdf-embed-container-ba558e7d-ee96-4fb8-82c4-34107372b348 { height: 100%; } .pdf-link-ba558e7d-ee96-4fb8-82c4-34107372b348 { background-color: white; text-align: center; border-style: solid; } .pdf-embed-container-ba558e7d-ee96-4fb8-82c4-34107372b348 iframe { width: 100%; height: 100%; } &lt;/style&gt;
+&lt;div class=&quot;pdf-embed-wrap-ba558e7d-ee96-4fb8-82c4-34107372b348&quot;&gt; &lt;div class=&quot;pdf-link-ba558e7d-ee96-4fb8-82c4-34107372b348&quot;&gt; &lt;a href=&quot;https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf&quot; target=&quot;_blank&quot;&gt;View PDF&lt;/a&gt; &lt;/div&gt; &lt;div class=&quot;pdf-embed-container-ba558e7d-ee96-4fb8-82c4-34107372b348&quot;&gt; &lt;iframe src=&quot;https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt; &lt;/div&gt; &lt;/div&gt;</content><author><name></name></author><summary type="html">Let’s watch some Yoututbe video</summary></entry></feed>
